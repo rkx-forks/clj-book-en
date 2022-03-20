@@ -3,7 +3,7 @@
 
 FROM ubuntu:20.04
 
-ENV TZ=Europe/Moscow
+ENV TZ=America/Chicago
 
 ARG DEBIAN_FRONTEND=noninteractive
 
